@@ -1,19 +1,19 @@
 # Hi, I'm Aruzhan 👋
-Computer Engineering student @ York University  
-Interested in Embedded Systems, Robotics, and Systems Programming
+Computer Engineering student @ York University
 
 ## 🚀 About Me
 - 🧠 Computer Engineering student (York University)
+- 🏆 2× Hackathon Winner — Best Accessibility Hack @ CTRL+HACK+DEL; QNX Sponsor Prize @ Hack the 6ix (real-time embedded systems project)
 - 🤖 Sumobot Lead @ York University Robotics Society
-- 👩‍💻 Ex-President @ Computing Students Hub (2000+ members)
+- 👩‍💻 Former President (2025-2026) @ Computing Students Hub (2000+ members)
 - 🔬 Working on deterministic systems & Lingua Franca research
-- 🎯 Goal: Software/Hardware Engineering Internship (2026)
+- 🏆 Lassonde School of Engineering Scholarship ($15,000/year) — top 7.5% of applicants, recognizing academic excellence, leadership, and entrepreneurial potential
 
 ## 🛠️ Tech Stack
-- Languages: C, C++, Python, MATLAB, Java
-- Embedded: STM32, Arduino, Raspberry Pi, QNX RTOS
-- Tools: Git, Linux, VS Code, STM32CubeIDE
-- Concepts: RTOS, I2C, UART, Multithreading
+C, C++, Python, MATLAB, Java  
+STM32, Arduino, Raspberry Pi, ESP32, QNX RTOS  
+Git, Linux, Bash, Figma, STM32CubeIDE  
+CAD, 3D Modeling (TinkerCAD), Multimeter
 
 ## 🔥 Featured Projects
 
