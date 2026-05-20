@@ -26,6 +26,10 @@ AI-powered assistive eyewear system for spatial awareness and accessibility
 - Integrated real-time AI narration with the Gemini API to describe objects and surroundings
 - Designed the system to support safer navigation for visually impaired users
 
+## 🔗 Links
+
+- Devpost: [Project Page](https://devpost.com/software/aaj)
+- Demo: [Watch Demo](https://www.youtube.com/shorts/th8GB3eLFiM)
 ---
 
 ### 🤖 Autonomous SumoBot
