@@ -26,6 +26,8 @@ AI-powered assistive eyewear system for spatial awareness and accessibility
 - Integrated real-time AI narration with the Gemini API to describe objects and surroundings
 - Designed the system to support safer navigation for visually impaired users
 
+---
+
 ### 🤖 Autonomous SumoBot
 Self-driving robot for autonomous sumo competitions  
 **2nd Place - York University SumoBot Competition**
