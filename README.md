@@ -41,6 +41,9 @@ Self-driving robot for autonomous sumo competitions
 - Used ultrasonic sensors for opponent detection and attack positioning
 - Tuned control logic for competition performance and reliability
 
+## 🔗 Links
+
+- Demo: [Watch competition demo — my bot is on the left](https://youtube.com/shorts/j7H8w4HQo3c?feature=share)
 ---
 
 ### 🥁 Beats By Air (QNX RTOS)
