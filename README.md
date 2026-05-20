@@ -95,8 +95,8 @@ AI-powered phygital learning robot that teaches children financial literacy thro
 **Tech:** React, TypeScript, Tailwind, NestJS, OpenAI API, ElevenLabs, Raspberry Pi, Arduino  
 **Focus:** AI education, robotics, child-friendly UX, hardware/software integration
 
-[Project Page](https://devpost.com/software/storyrover)
-[Repository](https://github.com/assem449/storyrover-moneyquest)
+- Devpost: [Project Page](https://devpost.com/software/storyrover)
+- GitHub: [Repository](https://github.com/assem449/storyrover-moneyquest)
 
 ---
 
