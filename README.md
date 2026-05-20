@@ -4,7 +4,7 @@ Computer Engineering student @ York University
 ## 🚀 About Me
 - 🧠 Computer Engineering student (York University)
 - 🏆 2× Hackathon Winner - Best Accessibility Hack @ CTRL+HACK+DEL; QNX Sponsor Prize @ Hack the 6ix (real-time embedded systems project)
-- 🤖 Sumobot Lead @ York University Robotics Society
+- 🤖 Sumobot Lead and Embedded Systems Engineer @ York University Robotics Society
 - 👩‍💻 Former President (2025-2026) @ Computing Students Hub (2000+ members)
 - 🔬 Working on deterministic systems & Lingua Franca research
 - 🏆 Lassonde School of Engineering Scholarship ($15,000/year) — top 7.5% of applicants, recognizing academic excellence, leadership, and entrepreneurial potential
@@ -16,15 +16,6 @@ Tools: Git, Linux, Figma, STM32CubeIDE, Multimeter
 Design: CAD, 3D Modeling, TinkerCAD, Soldering
 
 ## 🔥 Featured Projects
-
-### 🥁 Beats By Air (QNX RTOS)
-Real-time air drumming system using MPU6050 motion sensors for gesture-based drum input  
-**Winner - QNX Sponsor Prize, Hack the 6ix**
-
-- Contributed to a QNX-powered embedded system using C, I2C, and MPU6050 motion sensing
-- Supported testing, demo preparation, technical documentation, and sponsor-facing presentation
-- Helped communicate the system’s real-time constraints, sensor pipeline, and gesture detection workflow
-- Documented the architecture and lessons learned as a technical case study
 
 ### 👓 S.E.N.S.E. Assistive Eyewear
 AI-powered assistive eyewear system for spatial awareness and accessibility  
@@ -43,6 +34,15 @@ Self-driving robot for autonomous sumo competitions
 - Implemented edge detection using downward-facing IR sensors
 - Used ultrasonic sensors for opponent detection and attack positioning
 - Tuned control logic for competition performance and reliability
+
+### 🥁 Beats By Air (QNX RTOS)
+Real-time air drumming system using MPU6050 motion sensors for gesture-based drum input  
+**Winner - QNX Sponsor Prize, Hack the 6ix**
+
+- Contributed to a QNX-powered embedded system using C, I2C, and MPU6050 motion sensing
+- Supported testing, demo preparation, technical documentation, and sponsor-facing presentation
+- Helped communicate the system’s real-time constraints, sensor pipeline, and gesture detection workflow
+- Documented the architecture and lessons learned as a technical case study
 
 ### ⚙️ Lingua Franca Determinism Benchmarks
 Embedded-systems research project evaluating timing predictability on Raspberry Pi 4B
