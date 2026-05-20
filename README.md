@@ -28,12 +28,14 @@ AI-powered assistive eyewear system for spatial awareness and accessibility
 
 ### 🤖 Autonomous SumoBot
 Self-driving robot for autonomous sumo competitions  
-**2nd Place — York University SumoBot Competition**
+**2nd Place - York University SumoBot Competition**
 
 - Designed and built an Arduino-based robot for autonomous arena navigation
 - Implemented edge detection using downward-facing IR sensors
 - Used ultrasonic sensors for opponent detection and attack positioning
 - Tuned control logic for competition performance and reliability
+
+---
 
 ### 🥁 Beats By Air (QNX RTOS)
 Real-time air drumming system using MPU6050 motion sensors for gesture-based drum input  
@@ -43,6 +45,8 @@ Real-time air drumming system using MPU6050 motion sensors for gesture-based dru
 - Supported testing, demo preparation, technical documentation, and sponsor-facing presentation
 - Helped communicate the system’s real-time constraints, sensor pipeline, and gesture detection workflow
 - Documented the architecture and lessons learned as a technical case study
+
+---
 
 ### ⚙️ Lingua Franca Determinism Benchmarks
 Embedded-systems research project evaluating timing predictability on Raspberry Pi 4B
