@@ -87,3 +87,4 @@ Arduino and MATLAB system for monitoring air quality and soil moisture with real
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/aruzhanmassalina/
 - Email: aruzhanmassalina@gmail.com
+- Devpost: https://devpost.com/aruzhanmassalina
