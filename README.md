@@ -7,7 +7,7 @@ Computer Engineering student @ York University
 - 🤖 Sumobot Lead and Embedded Systems Engineer @ York University Robotics Society
 - 👩‍💻 Former President (2025-2026) @ Computing Students Hub (2000+ members)
 - 🔬 Working on deterministic systems & Lingua Franca research
-- 🏆 Lassonde School of Engineering Scholarship ($15,000/year) — top 7.5% of applicants, recognizing academic excellence, leadership, and entrepreneurial potential
+- 🏆 Lassonde School of Engineering Scholarship ($15,000/year) - top 7.5% of applicants, recognizing academic excellence, leadership, and entrepreneurial potential
 
 ## 🛠️ Tech Stack
 Languages: C, C++, Python, MATLAB, Java, Bash, RISC-V, Lingua Franca  
