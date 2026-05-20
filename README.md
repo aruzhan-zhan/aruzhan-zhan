@@ -106,7 +106,8 @@ Arduino and MATLAB system for monitoring air quality and soil moisture with real
 **Tech:** Arduino Nano, MATLAB, SGP30, soil moisture sensor, k-means clustering, linear regression  
 **Focus:** Sensor data processing, environmental monitoring, predictive analytics, real-time visualization
 
-[Repository]
+- GitHub: [Repository]
+- Demo: [Watch Demo](https://www.youtube.com/watch?v=el4Gd9wrhBw)
 
 
 ## 📫 Contact
