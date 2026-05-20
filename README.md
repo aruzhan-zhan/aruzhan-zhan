@@ -30,6 +30,7 @@ AI-powered assistive eyewear system for spatial awareness and accessibility
 
 - Devpost: [Project Page](https://devpost.com/software/aaj)
 - Demo: [Watch Demo](https://www.youtube.com/shorts/th8GB3eLFiM)
+- GitHub: [Repository](https://github.com/demardefrozen10/SENSE)
 ---
 
 ### 🤖 Autonomous SumoBot
@@ -44,6 +45,7 @@ Self-driving robot for autonomous sumo competitions
 ## 🔗 Links
 
 - Demo: [Watch competition demo — my bot is on the left](https://youtube.com/shorts/j7H8w4HQo3c?feature=share)
+- GitHub: [Repository](https://github.com/aruzhan-zhan/sumobot-arduino-robotics)
 ---
 
 ### 🥁 Beats By Air (QNX RTOS)
@@ -55,6 +57,10 @@ Real-time air drumming system using MPU6050 motion sensors for gesture-based dru
 - Helped communicate the system’s real-time constraints, sensor pipeline, and gesture detection workflow
 - Documented the architecture and lessons learned as a technical case study
 
+## 🔗 Links
+
+- Devpost: [Project Page](https://devpost.com/software/beats-by-air)
+- Demo: [Watch Demo](https://www.youtube.com/watch?v=6OCSvG9Qy9o)
 ---
 
 ### ⚙️ Lingua Franca Determinism Benchmarks
@@ -66,6 +72,11 @@ Embedded-systems research project evaluating timing predictability on Raspberry 
 - Tested timing behavior under STM32-generated periodic and sporadic hardware interrupts
 - Documented hardware setup, benchmark workflow, architectural coding standards, and timing-analysis findings
 
+## 🔗 Links
+
+- GitHub: [Repository 1](https://github.com/aruzhan-zhan/lf-rpi-benchmarks)
+- GitHub: [Repository 2](https://github.com/aruzhan-zhan/LF-benchmarks)
+
 ## Additional Projects
 
 ### 🚨 Pi Scout
@@ -73,6 +84,8 @@ Teleoperated rescue rover that detects nearby smartphone Wi-Fi signals and maps 
 
 **Tech:** Raspberry Pi, Python, Flask, HTML/CSS, ultrasonic sensor, MQ-135 air quality sensor, motor driver, 3D-printed chassis  
 **Focus:** Search-and-rescue robotics, Wi-Fi packet sniffing, environmental sensing, real-time dashboard
+
+[Project Page](https://devpost.com/software/pi-scout)
 
 ---
 
@@ -82,6 +95,9 @@ AI-powered phygital learning robot that teaches children financial literacy thro
 **Tech:** React, TypeScript, Tailwind, NestJS, OpenAI API, ElevenLabs, Raspberry Pi, Arduino  
 **Focus:** AI education, robotics, child-friendly UX, hardware/software integration
 
+[Project Page](https://devpost.com/software/storyrover)
+[Repository](https://github.com/assem449/storyrover-moneyquest)
+
 ---
 
 ### 🌱 Real-Time Environmental Monitoring
@@ -89,6 +105,8 @@ Arduino and MATLAB system for monitoring air quality and soil moisture with real
 
 **Tech:** Arduino Nano, MATLAB, SGP30, soil moisture sensor, k-means clustering, linear regression  
 **Focus:** Sensor data processing, environmental monitoring, predictive analytics, real-time visualization
+
+[Repository]
 
 
 ## 📫 Contact
