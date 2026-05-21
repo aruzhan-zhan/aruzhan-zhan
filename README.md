@@ -97,7 +97,7 @@ AI-powered phygital learning robot that teaches children financial literacy thro
 
 ---
 
-### 🌱 Environmental Monitoring & Plant Automation
+### 🌱 Environmental Monitoring and Plant Automation
 Arduino/MATLAB environmental sensing projects combining air quality monitoring, soil moisture tracking, predictive analysis, and automated plant watering.
 
 **Tech:** Arduino/Grove board, MATLAB, SGP30, soil moisture sensor, MOSFET relay, water pump, k-means clustering, linear regression  
