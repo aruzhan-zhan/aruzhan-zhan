@@ -104,8 +104,8 @@ Arduino/MATLAB environmental sensing projects combining air quality monitoring, 
 **Focus:** Sensor integration, real-time visualization, environmental monitoring, automation, predictive analytics
 
 - GitHub: [Repository]
-- Real-Time Environmental Monitoring Using Sensors and Machine Learning Demo: [Watch Demo 1](https://www.youtube.com/watch?v=el4Gd9wrhBw)
-- Main Project Demo: [Watch Demo 2](https://www.youtube.com/watch?v=zWMFbRdRFU0)
+- Real-Time Environmental Monitoring Using Sensors and Machine Learning Demo: [Watch Demo](https://www.youtube.com/watch?v=el4Gd9wrhBw)
+- Automated Plant Watering Demo: [Watch Demo](https://www.youtube.com/watch?v=zWMFbRdRFU0)
 
 
 ## 📫 Contact
