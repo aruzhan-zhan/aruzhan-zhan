@@ -97,14 +97,15 @@ AI-powered phygital learning robot that teaches children financial literacy thro
 
 ---
 
-### 🌱 Real-Time Environmental Monitoring
-Arduino and MATLAB system for monitoring air quality and soil moisture with real-time visualization, alerts, clustering, and eCO₂ prediction.
+### 🌱 Environmental Monitoring & Plant Automation
+Arduino/MATLAB environmental sensing projects combining air quality monitoring, soil moisture tracking, predictive analysis, and automated plant watering.
 
-**Tech:** Arduino Nano, MATLAB, SGP30, soil moisture sensor, k-means clustering, linear regression  
-**Focus:** Sensor data processing, environmental monitoring, predictive analytics, real-time visualization
+**Tech:** Arduino/Grove board, MATLAB, SGP30, soil moisture sensor, MOSFET relay, water pump, k-means clustering, linear regression  
+**Focus:** Sensor integration, real-time visualization, environmental monitoring, automation, predictive analytics
 
 - GitHub: [Repository]
-- Demo: [Watch Demo](https://www.youtube.com/watch?v=el4Gd9wrhBw)
+- Real-Time Environmental Monitoring Using Sensors and Machine Learning Demo: [Watch Demo 1](https://www.youtube.com/watch?v=el4Gd9wrhBw)
+- Main Project Demo: [Watch Demo 2]
 
 
 ## 📫 Contact
