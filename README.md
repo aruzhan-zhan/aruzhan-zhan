@@ -17,7 +17,7 @@ Design: CAD, 3D Modeling, TinkerCAD, Soldering
 
 ## 🔥 Featured Projects
 
-### 👓 S.E.N.S.E. Assistive Eyewear
+# 👓 S.E.N.S.E. Assistive Eyewear
 AI-powered assistive eyewear system for spatial awareness and accessibility  
 **Winner - Best Accessibility Hack, CTRL+HACK+DEL 2.0**
 
@@ -26,12 +26,14 @@ AI-powered assistive eyewear system for spatial awareness and accessibility
 - Integrated real-time AI narration with the Gemini API to describe objects and surroundings
 - Designed the system to support safer navigation for visually impaired users
 
+## 🔗 Links
+
 - Devpost: [Project Page](https://devpost.com/software/aaj)
 - Demo: [Watch Demo](https://www.youtube.com/shorts/th8GB3eLFiM)
 - GitHub: [Repository](https://github.com/demardefrozen10/SENSE)
 ---
 
-### 🤖 Autonomous SumoBot
+# 🤖 Autonomous SumoBot
 Self-driving robot for autonomous sumo competitions  
 **2nd Place - York University SumoBot Competition**
 
@@ -40,11 +42,12 @@ Self-driving robot for autonomous sumo competitions
 - Used ultrasonic sensors for opponent detection and attack positioning
 - Tuned control logic for competition performance and reliability
 
+## 🔗 Links
 - Demo: [Watch competition demo — my bot is on the left](https://youtube.com/shorts/j7H8w4HQo3c?feature=share)
 - GitHub: [Repository](https://github.com/aruzhan-zhan/sumobot-arduino-robotics)
 ---
 
-### 🥁 Beats By Air (QNX RTOS)
+# 🥁 Beats By Air (QNX RTOS)
 Real-time air drumming system using MPU6050 motion sensors for gesture-based drum input  
 **Winner - QNX Sponsor Prize, Hack the 6ix**
 
@@ -53,11 +56,12 @@ Real-time air drumming system using MPU6050 motion sensors for gesture-based dru
 - Helped communicate the system’s real-time constraints, sensor pipeline, and gesture detection workflow
 - Documented the architecture and lessons learned as a technical case study
 
+## 🔗 Links
 - Devpost: [Project Page](https://devpost.com/software/beats-by-air)
 - Demo: [Watch Demo](https://www.youtube.com/watch?v=6OCSvG9Qy9o)
 ---
 
-### ⚙️ Lingua Franca Determinism Benchmarks
+# ⚙️ Lingua Franca Determinism Benchmarks
 Embedded-systems research project evaluating timing predictability on Raspberry Pi 4B
 
 - Ported C-based benchmarks to Lingua Franca to compare standard C execution with deterministic reactor-based execution
@@ -66,6 +70,7 @@ Embedded-systems research project evaluating timing predictability on Raspberry 
 - Tested timing behavior under STM32-generated periodic and sporadic hardware interrupts
 - Documented hardware setup, benchmark workflow, architectural coding standards, and timing-analysis findings
 
+## 🔗 Links
 - GitHub: [Repository 1](https://github.com/aruzhan-zhan/lf-rpi-benchmarks)
 - GitHub: [Repository 2](https://github.com/aruzhan-zhan/LF-benchmarks)
 
