@@ -12,11 +12,11 @@ Computer Engineering student @ York University
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, C++, Java, MATLAB, Bash, JavaScript, TypeScript, SQL, RISC-V Assembly
-**Web & Software:** React, TypeScript, Flask, NestJS, HTML/CSS, REST APIs, Git/GitHub
-**Systems & Embedded:** Linux, Raspberry Pi, STM32, Arduino, ESP32, QNX RTOS, Lingua Franca
-**Tools & Development:** VS Code, STM32CubeIDE, CMake, Figma, Multimeter, Debugging, Technical Documentation
-**Design & Prototyping:** CAD, 3D Modeling, TinkerCAD, Soldering
+- **Languages:** Python, C, C++, Java, MATLAB, Bash, JavaScript, TypeScript, SQL, RISC-V Assembly
+- **Web & Software:** React, TypeScript, Flask, NestJS, HTML/CSS, REST APIs, Git/GitHub
+- **Systems & Embedded:** Linux, Raspberry Pi, STM32, Arduino, ESP32, QNX RTOS, Lingua Franca
+- **Tools & Development:** VS Code, STM32CubeIDE, CMake, Figma, Multimeter, Debugging, Technical Documentation
+- **Design & Prototyping:** CAD, 3D Modeling, TinkerCAD, Soldering
 
 
 ## 🔥 Featured Projects
@@ -25,8 +25,8 @@ Computer Engineering student @ York University
 
 AI-powered full-stack learning platform that teaches children financial literacy through interactive storytelling, voice feedback, and robot movement.
 
-**Tech:** React, TypeScript, Tailwind CSS, NestJS, OpenAI API, ElevenLabs, Raspberry Pi, Arduino
-**Focus:** Full-stack development, AI integration, API-driven applications, child-friendly UX, hardware/software integration
+- **Tech:** React, TypeScript, Tailwind CSS, NestJS, OpenAI API, ElevenLabs, Raspberry Pi, Arduino
+- **Focus:** Full-stack development, AI integration, API-driven applications, child-friendly UX, hardware/software integration
 
 * Built a React + TypeScript interface for children to make Spend, Save, or Invest decisions through interactive story scenarios
 * Developed backend services with NestJS to manage game logic, AI-generated scenarios, user decisions, and hardware commands
@@ -44,8 +44,8 @@ AI-powered full-stack learning platform that teaches children financial literacy
 
 Web-controlled disaster-response rover that detects obstacles, scans nearby Wi-Fi activity, and maps possible victim locations through a Flask dashboard.
 
-**Tech:** Python, Flask, HTML/CSS, Raspberry Pi, Linux, Wi-Fi scanning, ultrasonic sensing, occupancy-grid mapping
-**Focus:** Web dashboards, Python software architecture, mapping, networking, system integration
+- **Tech:** Python, Flask, HTML/CSS, Raspberry Pi, Linux, Wi-Fi scanning, ultrasonic sensing, occupancy-grid mapping
+- **Focus:** Web dashboards, Python software architecture, mapping, networking, system integration
 
 * Developed a Flask web dashboard to teleoperate the rover, trigger scans, and display generated 2D obstacle maps
 * Built a modular Python codebase with separate components for motor control, sonar sensing, Wi-Fi scanning, mapping, and web UI logic
@@ -64,8 +64,8 @@ Web-controlled disaster-response rover that detects obstacles, scans nearby Wi-F
 
 Software systems research project evaluating deterministic execution, concurrency models, and timing behavior in C and Lingua Franca.
 
-**Tech:** C, Lingua Franca, Python, Linux, Git, CMake, Raspberry Pi
-**Focus:** Concurrent programming, runtime behavior, benchmarking, deterministic software execution, performance analysis
+- **Tech:** C, Lingua Franca, Python, Linux, Git, CMake, Raspberry Pi
+- **Focus:** Concurrent programming, runtime behavior, benchmarking, deterministic software execution, performance analysis
 
 * Ported multithreaded C benchmarks into Lingua Franca to compare traditional thread-based execution with deterministic reactor-based execution
 * Replaced shared-memory synchronization patterns with isolated component state, timestamped message passing, and automatic scheduling
@@ -80,10 +80,10 @@ Software systems research project evaluating deterministic execution, concurrenc
 
 AI-powered assistive eyewear prototype that converts environmental input into audio and haptic feedback for accessibility.
 
-**Winner — Best Accessibility Hack, CTRL+HACK+DEL 2.0**
+- **Winner — Best Accessibility Hack, CTRL+HACK+DEL 2.0**
 
-**Tech:** Python, Gemini API, Raspberry Pi, Arduino, ultrasonic sensing, audio feedback, haptic feedback
-**Focus:** AI integration, accessibility technology, real-time feedback systems, assistive user experience
+- **Tech:** Python, Gemini API, Raspberry Pi, Arduino, ultrasonic sensing, audio feedback, haptic feedback
+- **Focus:** AI integration, accessibility technology, real-time feedback systems, assistive user experience
 
 * Built a smart eyewear prototype that translates surrounding environmental input into voice guidance and haptic alerts
 * Integrated real-time AI narration with the Gemini API to describe nearby objects and surroundings
@@ -103,10 +103,10 @@ AI-powered assistive eyewear prototype that converts environmental input into au
 
 Real-time gesture-based air drumming system using QNX RTOS and MPU6050 motion sensors.
 
-**Winner — QNX Sponsor Prize, Hack the 6ix**
+- **Winner — QNX Sponsor Prize, Hack the 6ix**
 
-**Tech:** C, QNX RTOS, Raspberry Pi, MPU6050, I2C, multithreading, real-time scheduling
-**Focus:** Real-time software, sensor data processing, gesture detection, technical documentation
+- **Tech:** C, QNX RTOS, Raspberry Pi, MPU6050, I2C, multithreading, real-time scheduling
+- **Focus:** Real-time software, sensor data processing, gesture detection, technical documentation
 
 * Contributed to a QNX-powered system that translated motion sensor data into gesture-based drum input
 * Supported development and testing of the sensor pipeline using MPU6050 motion data and I2C communication
@@ -125,10 +125,10 @@ Real-time gesture-based air drumming system using QNX RTOS and MPU6050 motion se
 
 Autonomous competition robot designed to detect arena boundaries, identify opponents, and execute attack/avoidance strategies.
 
-**2nd Place — York University SumoBot Competition**
+- **2nd Place — York University SumoBot Competition**
 
-**Tech:** Arduino, C/C++, IR sensors, ultrasonic sensors, motor control, 3D-printed chassis
-**Focus:** Robotics logic, sensor integration, debugging, autonomous control
+- **Tech:** Arduino, C/C++, IR sensors, ultrasonic sensors, motor control, 3D-printed chassis
+- **Focus:** Robotics logic, sensor integration, debugging, autonomous control
 
 * Designed and built an Arduino-based robot for autonomous arena navigation and sumo-style competition
 * Implemented edge detection using downward-facing IR sensors to prevent the robot from leaving the arena
@@ -149,8 +149,8 @@ Autonomous competition robot designed to detect arena boundaries, identify oppon
 
 Sensor-based environmental monitoring and automation projects combining air quality tracking, soil moisture sensing, predictive analysis, and plant watering control.
 
-**Tech:** Arduino/Grove board, MATLAB, SGP30, soil moisture sensor, MOSFET relay, water pump, k-means clustering, linear regression
-**Focus:** Machine Learning, data visualization, sensor integration, automation, predictive analytics, environmental monitoring
+- **Tech:** Arduino/Grove board, MATLAB, SGP30, soil moisture sensor, MOSFET relay, water pump, k-means clustering, linear regression
+- **Focus:** Machine Learning, data visualization, sensor integration, automation, predictive analytics, environmental monitoring
 
 * Built MATLAB-based visualizations for real-time environmental sensor readings
 * Used SGP30 and soil moisture sensors to collect air quality and plant health data
